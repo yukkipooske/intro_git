@@ -3,4 +3,6 @@ Gitの練習
 ・git add 
 ・git commit
 ・git status
+・git diff…ローカルとステージング領域との差分
+・git diff HEAD…ステージング領域と最新コミットの差分
 コマンドを追加した
